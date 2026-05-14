@@ -1,0 +1,11 @@
+{
+  "name": "WhatsApp Chat Analyzer & Android Guide",
+  "description": "An interactive WhatsApp exported chat viewer and analytics dashboard. Includes a fully functional web-based parser with real-time analytics alongside a step-by-step interactive Android developer workspace with ready-to-copy Java classes, XML layouts, and Gradle settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Text Processing",
+    "Data Analytics",
+    "AI Interpretation",
+    "Interactive Guide"
+  ]
+}
